@@ -1,5 +1,3 @@
-I have completed my part of the project and have tested it with part of Bens to show that im capable of linking frames to 
-each other.
 
 In this project I created the Login Screen, the screen after the login, and everything to do with Computing Support.
 I have included Array Lists, File Handling and all necessary parts needed for the project.

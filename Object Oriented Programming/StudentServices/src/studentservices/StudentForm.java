@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author x12533897
+ * Author X12112241
  */
 public class StudentForm extends javax.swing.JFrame {
 
